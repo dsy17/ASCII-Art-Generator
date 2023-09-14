@@ -1,4 +1,4 @@
-# ASCII-Art-Generator
+# ASCII Art Generator
 ASCII Art Generator
 
 A simple program that generates ASCII art from a given image. This program works best with images with a simple/white background.
